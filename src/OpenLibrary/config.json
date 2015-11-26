@@ -1,0 +1,10 @@
+{
+  "AppSettings": {
+    "SiteTitle": "OpenLibrary"
+  },
+  "Data": {
+    "DefaultConnection": {
+      "ConnectionString": "Server=(localdb)\\mssqllocaldb;Database=aspnet5-OpenLibrary-8ff3728a-9aae-41dc-8ae7-093558d5e9a2;Trusted_Connection=True;MultipleActiveResultSets=true"
+    }
+  }
+}
